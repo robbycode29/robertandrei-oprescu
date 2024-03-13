@@ -26,5 +26,12 @@
         "description": "This is an API for a tensorflow recommenders model trained on game recommendation data from Kaggle. Works slow because it's hosted on a free tier server. Try recommend/?genre=[%27Shooter%27] to get recommendations. (school project)",
         "image": "monkeyplayin-api-thumb.png",
         "url": "https://api-monkeyplayin.onrender.com/"
+    },
+    {
+        "id": 5,
+        "name": "Geobrowser",
+        "description": "This is proprietary software for GMV. It's a web-based geospatial data visualization tool.",
+        "image": "gmv-thumb.png",
+        "url": "https://geobrowser.gmv.com/login"
     }
 ]
