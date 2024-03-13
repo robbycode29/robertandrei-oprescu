@@ -5,7 +5,7 @@
         <img src="./assets/favicon-logo.png" class="w-8 h-8" />
       </div>
       <div class="flex-1 flex flex-row items-center justify-center gap-5">
-        <router-link to="/about" class="flex items-center justify-center">
+        <router-link to="/" class="flex items-center justify-center">
           <h1 class="text-xl font-medium text-gray-700">About me</h1>
         </router-link>
         <router-link to="/contact" class="flex items-center justify-center">
