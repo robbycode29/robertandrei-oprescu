@@ -7,6 +7,7 @@
                 <span>Current version: 1.0.0</span>
                 <span>This application serves as my personal online resume.</span>
                 <span>It is open source and can be used as a reference if you want to build your own.</span>
+                <span>Github repo: <a class="underline" href="https://github.com/robbycode29/robertandrei-oprescu.git">https://github.com/robbycode29/robertandrei-oprescu.git</a></span>
                 <span>Vue 3: 3.2.13</span>
                 <span>Tailwind CSS: 3.4.1</span>
                 <span>Typescript: 4.5.5</span>
