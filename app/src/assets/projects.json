@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Questions and Answers",
+        "description": "This is a simple Q&A app that allows users to create questionaires and answer them. (made for a friend's project)",
+        "image": "qna-thumb.png",
+        "url": "https://questions-and-answers-ugal.vercel.app/"
+    },
+    {
+        "id": 2,
+        "name": "E-commerce App UI",
+        "description": "This is a simple e-commerce app UI that allows users to view marketing metrics and orders.",
+        "image": "ecommerce-thumb.png",
+        "url": "https://ecommerce-ui-psi.vercel.app/"
+    },
+    {
+        "id": 3,
+        "name": "Tomoseg",
+        "description": "This is DICOM drive app that allows users to upload CT scans. (Work in progress)",
+        "image": "tomoseg-thumb.png",
+        "url": "https://tomo-seg.vercel.app/"
+    },
+    {
+        "id": 4,
+        "name": "Monkeyplayin' API",
+        "description": "This is an API for a tensorflow recommenders model trained on game recommendation data from Kaggle. Works slow because it's hosted on a free tier server. Try recommend/?genre=[%27Shooter%27] to get recommendations. (school project)",
+        "image": "monkeyplayin-api-thumb.png",
+        "url": "https://api-monkeyplayin.onrender.com/"
+    }
+]
