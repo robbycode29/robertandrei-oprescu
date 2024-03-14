@@ -58,10 +58,6 @@ export default defineComponent({
     border: 5px solid rgba(255, 255, 255, 0.9);
 }
 
-/* .scrollbar-thin::-webkit-scrollbar-thumb:hover {
-    background: #555;
-} */
-
 body {
     scrollbar-width: thin;
 }
