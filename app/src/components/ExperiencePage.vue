@@ -15,7 +15,7 @@
     <img src="@/assets/carrer.png" class="md:flex hidden py-16 px-36" />
     <div class="flex flex-col gap-6 justify-self-center items-center mb-6">
       <h1 class="text-2xl font-semibold text-center md:text-left">Download CV in PDF format</h1>
-      <a href="https://drive.google.com/file/d/1T_FkqYOpyW-P19co4oSuwWFdv4NXnlyX/view?usp=sharing" target="_blank" class="flex items-center justify-center w-32 h-12 bg-black text-white rounded-xl">
+      <a href="https://drive.google.com/file/d/1PdefIXyYJKvJ7nXW4ZpIAFJ41x2PWdPu/view?usp=sharing" target="_blank" class="flex items-center justify-center w-32 h-12 bg-black text-white rounded-xl">
         <img src="@/assets/drive.svg" class="w-6 mr-2"/>
         Download
       </a>
