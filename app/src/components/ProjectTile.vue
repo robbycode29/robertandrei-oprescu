@@ -1,5 +1,5 @@
 <template>
-    <div @click="goTo(project.url)" class="bg-white tile-shadow rounded-xl sm:min-w-72 sm:min-h-72 cursor-pointer">
+    <div @click="goTo(project.url)" class="bg-white tile-shadow rounded-xl sm:min-w-72 sm:min-h-72 cursor-pointer md:max-w-[360px]">
         <div class="flex flex-col h-full">
             <div class="flex-1">
                 <img :src="project.image" alt="Project image"
