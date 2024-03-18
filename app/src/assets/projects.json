@@ -33,5 +33,12 @@
         "description": "This is proprietary software for GMV. It's a web-based geospatial data visualization tool.",
         "image": "gmv-thumb.png",
         "url": "https://geobrowser.gmv.com/login"
+    },
+    {
+        "id": 6,
+        "name": "Hypercrates",
+        "description": "An ACL rudimentary demo API for medical systems management",
+        "image": "hypercrates.png",
+        "url": "https://hypercrates-900239d97135.herokuapp.com/"
     }
 ]
