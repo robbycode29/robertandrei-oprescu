@@ -39,6 +39,6 @@
         "name": "Hypercrates",
         "description": "An ACL rudimentary demo API for medical systems management",
         "image": "hypercrates.png",
-        "url": "https://hypercrates-900239d97135.herokuapp.com/"
+        "url": "https://github.com/robbycode29/hypercrates"
     }
 ]
