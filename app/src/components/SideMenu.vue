@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#cce3ff] shadow-xl px-5 py-16 flex flex-col gap-9 w-16 overflow-x-hidden hover:w-72 text-nowrap group transition-all duration-300 ease-in-out">
+    <div class="bg-[#cce3ff] shadow-xl px-5 py-16 flex flex-col gap-9 w-16 overflow-x-hidden lg:hover:w-72 text-nowrap group transition-all duration-300 ease-in-out">
         <button @click="changeMenu(0)" class="flex flex-row gap-6">
             <img src="../assets/wand.svg" class="w-6 h-6" />
             <span class="text-gray-800 font-medium group-hover:flex">My Projects</span>
