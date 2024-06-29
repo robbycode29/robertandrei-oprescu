@@ -1,16 +1,17 @@
 <template>
   <div
     class="flex items-center md:items-stretch pt-4 md:pt-0 flex-col gap-6 w-full p-1 m-4 ml-20 sm:p-4 sm:m-8 sm:ml-24 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
-    <div class="grid md:grid-flow-col gap-2 md:gap-0 items-center">
+    <div class="grid sm:flex sm:flex-row sm:justify-evenly gap-2 md:gap-0 items-center">
       <img src="@/assets/django.png" class="w-24" />
-      <img src="@/assets/firebase.png" class="w-32" />
-      <img src="@/assets/gee.png" class="w-12" />
+      <!-- <img src="@/assets/firebase.png" class="w-32" /> -->
+      <!-- <img src="@/assets/gee.png" class="w-12" /> -->
       <img src="@/assets/vue-logo.png" class="w-24" />
-      <img src="@/assets/docker.png" class="w-12" />
-      <img src="@/assets/node.png" class="w-20" />
+      <img src="@/assets/docker.png" class="w-12 justify-self-center" />
+      <!-- <img src="@/assets/node.png" class="w-20" /> -->
       <img src="@/assets/postgres.png" class="w-24" />
       <img src="@/assets/tensorflow.png" class="w-24" />
-      <img src="@/assets/ubuntu.png" class="w-24" />
+      <!-- <img src="@/assets/ubuntu.png" class="w-24" /> -->
+      <img src="@/assets/pytorch.png" class="w-24" />
     </div>
     <img src="@/assets/carrer.png" class="md:flex hidden py-16 px-36" />
     <div class="flex flex-col gap-6 justify-self-center items-center mb-6">
