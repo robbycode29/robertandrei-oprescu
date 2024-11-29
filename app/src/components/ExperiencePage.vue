@@ -9,11 +9,11 @@
       <img src="@/assets/docker.png" class="w-12 justify-self-center" />
       <!-- <img src="@/assets/node.png" class="w-20" /> -->
       <img src="@/assets/postgres.png" class="w-24" />
-      <img src="@/assets/tensorflow.png" class="w-24" />
+<!--      <img src="@/assets/tensorflow.png" class="w-24" />-->
       <!-- <img src="@/assets/ubuntu.png" class="w-24" /> -->
       <img src="@/assets/pytorch.png" class="w-24" />
     </div>
-    <img src="@/assets/carrer.png" class="md:flex hidden py-16 px-36" />
+<!--    <img src="@/assets/carrer.png" class="md:flex hidden py-16 px-36" />-->
     <div class="flex flex-col gap-6 justify-self-center items-center mb-6">
       <h1 class="text-2xl font-semibold text-center md:text-left">Download CV in PDF format</h1>
       <a href="https://drive.google.com/file/d/1PdefIXyYJKvJ7nXW4ZpIAFJ41x2PWdPu/view?usp=sharing" target="_blank" class="flex items-center justify-center w-32 h-12 bg-black text-white rounded-xl">
@@ -22,6 +22,19 @@
       </a>
     </div>
     <div class="flex flex-col gap-6 lg:mx-44">
+      <div class="flex flex-col gap-4 border-2 border-black rounded-xl p-4">
+        <div class="flex md:flex-row flex-col items-center gap-2 md:gap-0">
+            <h2 class="text-2xl font-semibold text-center md:text-left">Software Engineer Consultant @ Tremend, Publicis Groupe</h2>
+            <div class="flex flex-1"></div>
+            <img src="@/assets/consultant.svg" class="w-8"/>
+        </div>
+        <div class="flex w-full h-[1.5px] bg-black"></div>
+        <span class="flex flex-col text-lg font-medium">As a Python Engineer and Consultant my responsibilities revolve around:
+          <span class="pl-6">• Transposing client requirements into fully developed and tested features</span>
+          <span class="pl-6">• Participating in sprint planning, story/epic refinement and retrospective sessions</span>
+          <span class="pl-6">• Generally improving the product and offering insight into best practices as a software consultant.</span>
+        </span>
+      </div>
       <div class="flex flex-col gap-4 border-2 border-black rounded-xl p-4">
         <div class="flex md:flex-row flex-col items-center gap-2 md:gap-0">
           <h2 class="text-2xl font-semibold text-center md:text-left">Freelance Developer @ Nezo Global</h2>
