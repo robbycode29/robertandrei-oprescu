@@ -1,6 +1,6 @@
 <template>
     <div
-        class="flex flex-col gap-6 w-full p-1 m-4 ml-20 sm:p-4 sm:m-8 sm:ml-24 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
+        class="flex flex-col gap-6 w-full p-1 m-4 lg:ml-24 sm:p-4 sm:m-8 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
         <h1 class="text-xl font-semibold text-center self-center">Personal projects</h1>
         <span class="text-sm font-normal self-center">These are a few projects that I love sharing. They are no start-up
             ideas 🚀, just a few things to display my coding capabilities. 💻</span>

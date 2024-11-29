@@ -1,5 +1,6 @@
 <template>
   <div class="flex flex-row background-color h-full">
+      <SideMenu />
     <div
         class="flex flex-col gap-6 w-full p-4 m-4 sm:p-4 sm:m-8 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
         <h1 class="text-3xl font-semibold text-center self-center">Get in touch</h1>
@@ -23,9 +24,11 @@
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue';
+import SideMenu from "@/components/SideMenu.vue";
 
 export default defineComponent({
   name: 'ContactVue',
+    components: {SideMenu},
 });
 </script>
 <style scoped>

@@ -4,7 +4,7 @@
             <div><h2 class="text-lg font-semibold">Welcome to my resume portal!</h2></div>
             <div class="flex w-full h-[1.5px] rounded-xl bg-black"></div>
             <div class="text-base font-normal flex flex-col">
-                <span>Current version: 1.0.0</span>
+                <span>Current version: 1.1.0</span>
                 <span>This application serves as my personal online resume.</span>
                 <span>It is open source and can be used as a reference if you want to build your own.</span>
                 <span>Github repo: <a class="underline" href="https://github.com/robbycode29/robertandrei-oprescu.git">https://github.com/robbycode29/robertandrei-oprescu.git</a></span>

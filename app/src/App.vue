@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col background h-screen">
-    <div class="flex flex-row header-shadow bg-white h-16 items-center px-5 gap-4">
+    <div class="hidden lg:flex flex-row header-shadow bg-[#F5F5F5] h-16 items-center px-5 gap-4">
       <div class="flex">
         <img src="./assets/favicon-logo.png" class="w-8 h-8" />
       </div>
@@ -11,6 +11,11 @@
         <router-link to="/contact" class="flex items-center justify-center">
           <h1 class="text-xl font-medium text-gray-700">Contact</h1>
         </router-link>
+      </div>
+    </div>
+    <div class="flex lg:hidden flex-row header-shadow bg-[#F5F5F5] h-16 items-center justify-center px-5 gap-4">
+      <div class="flex">
+          <img src="./assets/favicon-logo.png" class="w-8 h-8" />
       </div>
     </div>
     <router-view />
@@ -36,3 +41,5 @@
   background-position: center;
 }
 </style>
+<script setup lang="ts">
+</script>

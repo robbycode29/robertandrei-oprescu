@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex items-center md:items-stretch pt-4 md:pt-0 flex-col gap-6 w-full p-1 m-4 ml-20 sm:p-4 sm:m-8 sm:ml-24 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
+    class="flex items-center md:items-stretch pt-4 md:pt-0 flex-col gap-6 w-full p-1 m-4 lg:ml-24 sm:p-4 sm:m-8 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
     <div class="grid sm:flex sm:flex-row sm:justify-evenly gap-2 md:gap-0 items-center">
       <img src="@/assets/django.png" class="w-24" />
       <!-- <img src="@/assets/firebase.png" class="w-32" /> -->

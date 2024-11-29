@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col gap-6 w-full p-1 m-4 ml-20 sm:p-4 sm:m-8 sm:ml-24 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
+    class="flex flex-col gap-6 w-full p-1 m-4 sm:p-4 sm:m-8 lg:ml-24 rounded-xl background-page overflow-y-scroll scrollbar-thin adjusted-height">
     <h1 class="text-xl font-semibold text-center self-center">Academia and Education</h1>
     <div class="h-[1.5px] bg-black w-full rounded-xl"></div>
     <div class="flex flex-col gap-16">

@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-row background-color h-full">
-        <SideMenu class="absolute l-0 height-adjusted"/>
+        <SideMenu />
         <div class="flex-1 flex">
             <component :is="currentComponent" />
             <InfoAlert />
@@ -43,8 +43,5 @@ export default defineComponent({
 <style lang="scss" scoped>
 .background-color {
     background-color: rgba(204, 227, 255, 0.65);
-}
-.height-adjusted {
-    height: calc(100vh - 60px);
 }
 </style>
