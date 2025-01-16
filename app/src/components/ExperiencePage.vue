@@ -30,9 +30,11 @@
         </div>
         <div class="flex w-full h-[1.5px] bg-black"></div>
         <span class="flex flex-col text-lg font-medium">As a Python Engineer and Consultant my responsibilities revolve around:
-          <span class="pl-6">• Transposing client requirements into fully developed and tested features</span>
-          <span class="pl-6">• Participating in sprint planning, story/epic refinement and retrospective sessions</span>
-          <span class="pl-6">• Generally improving the product and offering insight into best practices as a software consultant.</span>
+          <span class="pl-6">• Translated client requirements into fully developed, tested, and deployed features using Python, enhancing overall system functionality.</span>
+          <span class="pl-6">• Played a pivotal role in agile ceremonies, including sprint planning, backlog refinement, and retrospectives, driving project alignment and efficient task execution.</span>
+          <span class="pl-6">• Improved team capacity by at least 30% by taking on cross-functional roles, including front-end, back-end, and testing, which boosted overall team output by 3x.</span>
+          <span class="pl-6">• Contributed to achieving a company milestone of $1.6 billion USD in sales during my tenure through consistent delivery of high-quality, scalable solutions.</span>
+          <span class="pl-6">• Provided software consultancy and implemented best practices to enhance product quality and system performance.</span>
         </span>
       </div>
       <div class="flex flex-col gap-4 border-2 border-black rounded-xl p-4">
