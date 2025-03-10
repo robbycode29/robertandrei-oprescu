@@ -1,31 +1,31 @@
 [
     {
         "id": 1,
+        "name": "Veriwell",
+        "description": "Verifying wellness advice. VeriWell is an AI tool that lets you check the validity of health claims made by influencers online.",
+        "image": "veriwell.png",
+        "url": "https://veriwell.vercel.app/#/"
+    },
+    {
+        "id": 2,
         "name": "ViTTE Contour Copilot",
         "description": "The idea behind ViTTE is to augment the radiotherapy treatment process by offering a tool that can automatically contour at-risk organs more efficiently than current methods using generative AI.",
         "image": "vitte.png",
         "url": "https://www.linkedin.com/posts/robert-andrei-oprescu-513072221_medicine-medical-tomography-activity-7230915563240251392-Yx5J?utm_source=share&utm_medium=member_desktop"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "EKKO Ecommerce Chatbot",
         "description": "This is a project that demonstrates my capabilities of using vector embeddings to create a chatbot that can recommend products based on user input in natural language.",
         "image": "ekko.png",
         "url": "https://ekko-chat.vercel.app/#/"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Geobrowser",
         "description": "This is proprietary software for GMV. It's a web-based geospatial data visualization tool.",
         "image": "gmv-thumb.png",
         "url": "https://geobrowser.gmv.com/login"
-    },
-    {
-        "id": 4,
-        "name": "Questions and Answers",
-        "description": "This is a simple Q&A app that allows users to create questionaires and answer them. (made for a friend's project)",
-        "image": "qna-thumb.png",
-        "url": "https://questions-and-answers-ugal.vercel.app/"
     },
     {
         "id": 5,
@@ -33,26 +33,5 @@
         "description": "This is a simple e-commerce app UI that allows users to view marketing metrics and orders.",
         "image": "ecommerce-thumb.png",
         "url": "https://ecommerce-ui-psi.vercel.app/"
-    },
-    {
-        "id": 6,
-        "name": "Tomoseg",
-        "description": "This is DICOM drive app that allows users to upload CT scans. (Work in progress)",
-        "image": "tomoseg-thumb.png",
-        "url": "https://tomo-seg.vercel.app/"
-    },
-    {
-        "id": 7,
-        "name": "Monkeyplayin' API",
-        "description": "This is an API for a tensorflow recommenders model trained on game recommendation data from Kaggle. Works slow because it's hosted on a free tier server. Try recommend/?genre=[%27Shooter%27] to get recommendations. (school project)",
-        "image": "monkeyplayin-api-thumb.png",
-        "url": "https://api-monkeyplayin.onrender.com/"
-    },
-    {
-        "id": 8,
-        "name": "Hypercrates",
-        "description": "An ACL rudimentary demo API for medical systems management",
-        "image": "hypercrates.png",
-        "url": "https://github.com/robbycode29/hypercrates"
     }
 ]
